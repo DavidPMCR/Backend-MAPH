@@ -1,1 +1,4 @@
 //matar proceso de base datos taskkill /PID 6516 /F
+
+
+video de como crearlo https://www.youtube.com/watch?v=U23lNFm_J70&t=147s
