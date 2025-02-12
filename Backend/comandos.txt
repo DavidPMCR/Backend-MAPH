@@ -1,4 +1,7 @@
+netstat -ano | findstr :3306
+
 //matar proceso de base datos taskkill /PID 6516 /F
 
+// crear iconos https://www.youtube.com/watch?v=LMLmMEx6Bxg&t=45s
 
 video de como crearlo https://www.youtube.com/watch?v=U23lNFm_J70&t=147s
