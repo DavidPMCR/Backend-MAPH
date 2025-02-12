@@ -1,0 +1,1 @@
+//matar proceso de base datos taskkill /PID 6516 /F
